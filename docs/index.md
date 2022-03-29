@@ -7,11 +7,7 @@ Poritco Exchange is a Exchange Decentralized on Lightning Network with in be int
 
 ## Features
 
--Liquid Network
--Bitcoin (On Chain and Off Chain)
--Tether USDT (ERC-20 and Lightning Network)
--Taproot
--LNURL
+Liquid Network; Bitcoin (On Chain and Off Chain); Tether USDT (ERC-20 and Lightning Network); Taproot; LNURL;
 
 ## How Works? 
 
@@ -20,8 +16,9 @@ Example: USDT<>BTC
 
 ![image](https://user-images.githubusercontent.com/83122757/160580176-7cd2852a-2e08-4fc5-9c60-e4fc5ce6afa5.png)
 
-**Bold** and _Italic_ and `Code` text
+## Whitepaper
 
-[Whitepaper](https://layertwolabs.gitbook.io/portico-exchange/)
+(https://layertwolabs.gitbook.io/portico-exchange/)
 
-## Disclaimer: This product is in development. 
+## Disclaimer: This product is in development.
+
