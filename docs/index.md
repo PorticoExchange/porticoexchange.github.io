@@ -25,8 +25,7 @@ https://layertwolabs.gitbook.io/portico-exchange/
 https://github.com/PorticoExchange
 
 ## Contact
-
-poritcoexchange@gmail.com / https://twitter.com/porticoexchange
+https://twitter.com/porticoexchange
 
 ## Disclaimer 1:  This product is in development;
 
