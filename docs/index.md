@@ -1,4 +1,5 @@
 ## Portico Exchange
+
 ![image](https://user-images.githubusercontent.com/83122757/160579966-360666b0-3830-490b-b30c-e4c8c5752872.png)
 
 ### Portico Exchange
@@ -18,7 +19,8 @@ Example: USDT<>BTC
 
 ## Whitepaper
 
-(https://layertwolabs.gitbook.io/portico-exchange/)
+https://layertwolabs.gitbook.io/portico-exchange/
 
-## Disclaimer: This product is in development.
+## Disclaimer 1:  This product is in development.
+## Disclaimer 2: We haven't token. 
 
