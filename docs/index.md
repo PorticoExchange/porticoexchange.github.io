@@ -21,6 +21,10 @@ Example: USDT<>BTC
 
 https://layertwolabs.gitbook.io/portico-exchange/
 
-## Disclaimer 1:  This product is in development.
+## Github
+https://github.com/PorticoExchange
+
+## Disclaimer 1:  This product is in development;
+
 ## Disclaimer 2: We haven't token. 
 
