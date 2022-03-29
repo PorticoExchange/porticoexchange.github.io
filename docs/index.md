@@ -4,7 +4,7 @@
 
 ### Portico Exchange
 
-Poritco Exchange is a Exchange Decentralized on Lightning Network with in be interoperability between layers and sidechain from Bitcoin
+Poritco Exchange is an Exchange Decentralized on Lightning Network with focus in be interoperability between layers and sidechain from Bitcoin
 
 ## Features
 
