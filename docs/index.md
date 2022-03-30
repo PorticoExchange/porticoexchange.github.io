@@ -31,3 +31,4 @@ https://twitter.com/porticoexchange
 
 ## Disclaimer 2: We haven't token. 
 
+Copyright © 2022 Layer2Labs technologies
