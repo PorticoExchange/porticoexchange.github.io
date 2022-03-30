@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Portico Exchange
 description: DEX on Lightning Network
+baseurl: ""
+url: "https://proticoexchange.github.io"
