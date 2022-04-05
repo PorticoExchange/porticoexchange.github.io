@@ -27,6 +27,10 @@ https://github.com/PorticoExchange
 ## Contact
 https://twitter.com/porticoexchange
 
+## Releases
+
+*V1.0.0-beta: https://github.com/PorticoExchange/PorticoExchangefrontend/releases/tag/v1.0.0-beta (Pre release of the product)
+
 ## Disclaimer 1:  This product is in development;
 
 ## Disclaimer 2: We haven't token. 
