@@ -13,7 +13,7 @@ Liquid Network, Bitcoin (On Chain and Off Chain), USDT (ERC-20 and Lightning Net
 ## How Works? 
 
 For make Swap between chains different wil be necessary have HTLC(Hashed TimeLock), where alllow commucation with A and B.
-Example: USDT<>BTC
+Example: USDT<>BTC or LBTC<>BTC
 
 ![image](https://user-images.githubusercontent.com/83122757/160580176-7cd2852a-2e08-4fc5-9c60-e4fc5ce6afa5.png)
 
@@ -25,9 +25,9 @@ https://layertwolabs.gitbook.io/portico-exchange/
 https://github.com/PorticoExchange
 
 ## Contact
-https://twitter.com/porticoexchange
+*https://twitter.com/porticoexchange
 
-porticoexchange@gmail.com
+*porticoexchange@gmail.com
 
 ## Releases
 
