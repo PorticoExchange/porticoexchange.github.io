@@ -32,6 +32,7 @@ https://github.com/PorticoExchange
 ## Releases
 
 *V1.0.0-beta: https://github.com/PorticoExchange/PorticoExchangefrontend/releases/tag/v1.0.0-beta (Pre release of the product)
+*V1.0.0-beta2: https://github.com/PorticoExchange/PorticoExchangefrontend/releases/tag/v1.0.0-beta.2
 
 ## Portico Exchange on Crunchbase
 
