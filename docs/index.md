@@ -39,7 +39,7 @@ https://github.com/PorticoExchange
 
 1) https://portico-exchange.stackblitz.io/
 
-2) https://portico-exchange-frontend-v2.vercel.app/
+2) https://porticoexchangetestnet.vercel.app/
 
 ## Portico Exchange on Crunchbase
 
