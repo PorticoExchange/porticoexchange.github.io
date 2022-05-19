@@ -37,7 +37,9 @@ https://github.com/PorticoExchange
 
 ## Website (Prototype)
 
-https://portico-exchange.stackblitz.io/
+1) https://portico-exchange.stackblitz.io/
+
+2) https://portico-exchange-frontend-v2.vercel.app/
 
 ## Portico Exchange on Crunchbase
 
