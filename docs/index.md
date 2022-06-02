@@ -35,6 +35,8 @@ https://github.com/PorticoExchange
 
 *V1.0.0-beta2: https://github.com/PorticoExchange/PorticoExchangefrontend/releases/tag/v1.0.0-beta.2 (Pre release of the product)
 
+*V1.0.0-beta3: https://github.com/PorticoExchange/PorticoExchangeFrontendV2/releases/tag/V1.0.0-beta3 (Pre release of the prduct)
+
 ## Website (Prototype)
 
 1) https://portico-exchange.stackblitz.io/
