@@ -47,6 +47,17 @@ https://github.com/PorticoExchange
 
 https://www.crunchbase.com/organization/portico-exchange
 
+## Our Lightning Node
+
+Public Key:  03da7d02b0a140094606133a75a0603be3425d38c466beece3519387e4db62270e
+
+Onion Address: 03da7d02b0a140094606133a75a0603be3425d38c466beece3519387e4db62270e@xpijc26uoi6oh6jojvi4ya3utvygcg5jiitcefauxjzqtx2ifgyimqyd.onion:9735
+
+QR Code:
+
+![image](https://user-images.githubusercontent.com/83122757/173049417-659bccee-ceb2-4ef8-ba48-6ec8f8d97134.png)
+
+
 ## Disclaimer 1:  This product is in development;
 
 ## Disclaimer 2: We haven't token. 
