@@ -65,8 +65,6 @@ We welcome any investiment from aligned accredited investors in exchange for sta
 
 Discount and cap are negotiable based on size, speed & other value adds. We accept BTC.
 
-No tokens. We are now Bitcoin-only.
-
 Inquire via Twitter DM to @porticoexchange.
 
 ## Disclaimer 1:  This product is in development;
