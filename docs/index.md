@@ -57,7 +57,7 @@ QR Code:
 
 ![image](https://user-images.githubusercontent.com/83122757/173049417-659bccee-ceb2-4ef8-ba48-6ec8f8d97134.png)
 
-## Invest in Poritco Exchange
+## Invest in Portico Exchange
 
 To fund our DEX, we are extending our seed round to Venture Capital with focus on Lghtning Network
 
