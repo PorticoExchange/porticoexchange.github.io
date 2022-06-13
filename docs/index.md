@@ -57,6 +57,17 @@ QR Code:
 
 ![image](https://user-images.githubusercontent.com/83122757/173049417-659bccee-ceb2-4ef8-ba48-6ec8f8d97134.png)
 
+## Invest in Poritco Exchange
+
+To fund our DEX, we are extending our seed round to Venture Capital with focus on Lghtning Network
+
+We welcome any investiment from aligned accredited investors in exchange for standard SAFE notes.
+
+Discount and cap are negotiable based on size, speed & other value adds. We accept BTC.
+
+No tokens. We are now Bitcoin-only.
+
+Inquire via Twitter DM to @porticoexchange.
 
 ## Disclaimer 1:  This product is in development;
 
