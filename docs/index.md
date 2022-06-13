@@ -59,7 +59,7 @@ QR Code:
 
 ## Invest in Portico Exchange
 
-To fund our DEX, we are extending our seed round to Venture Capital with focus on Lghtning Network
+To fund our DEX, we are extending our seed round to Venture Capital with focus on Lightning Network.
 
 We welcome any investiment from aligned accredited investors in exchange for standard SAFE notes.
 
