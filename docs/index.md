@@ -8,7 +8,7 @@ Portico Exchange is an Exchange Decentralized on Lightning Network with focus in
 
 ## Features
 
-Liquid Network, Bitcoin (On Chain and Off Chain), USDT (ERC-20 and Lightning Network), Taproot, LNURL.
+Liquid Network, Bitcoin (On Chain and Off Chain), USDT (ERC-20 and Lightning Network), Taproot, LNURL and RSK Network.
 
 ## How Works? 
 
